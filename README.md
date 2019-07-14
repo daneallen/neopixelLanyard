@@ -5,7 +5,12 @@ Inspired by attendance at Defcon 26 I wanted to fabricate and bring something un
 
 Total parts cost ~$40/unit.
 
-Contained within this repository is everything you *should* need to modify and fabricate the lanyard
+Contained within this repository is everything you *should* need to fabricate and modify the lanyard as you desire.
+
+### Project Keywords
+- MCU - Attiny85
+- Arduino Stack
+- Neopixel
 
 ## Software Credits:
 - [Adafruit The magic of neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
@@ -28,9 +33,10 @@ Contained within this repository is everything you *should* need to modify and f
 ## Instructions
 1. Collect all of the necassary parts (i.e. manufacture the PCB, order from Digikey, etc).
 2. Populate the PCB. 
-  - Solder the battery pack LAST!
-  - Ensure that the through hole components are clipped as flush as possible on the backside to ensure tha the battery sits flush with the back of the PCB.
-  - Solder the battery pack last once satisfied and op-checked.
+    - Solder the battery pack LAST!
+    - Ensure that the through hole components are clipped as flush as possible on the backside to ensure tha the battery pack unit sits flush with the back of the PCB.
+    - Once satisfied and op-checked solder the battery pack leads last (from the front of the PCB).
 3. Thread the Neopixel strip through the lanyard material. This is slow going, about 1-2 inches per minute by hand.
 4. Carefully select the desired length and hand stitch the filled lanyard to the PCB
-
+5. Using the AVR ISP tools modify/compile/upload the source code directly to the PCB.
+    - Don't forget to "Burn Bootloader" as the first step in the load process since the source code is built utilizing the Arduino stack. The bootloader is only loaded once per PCB.
