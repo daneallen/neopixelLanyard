@@ -22,7 +22,7 @@ Contained within this repository is everything you *should* need to fabricate an
 - AVR Programming Cable 2x3
 
 ## Other Materials
-- Bill of Material for all parts outlines in great detail every part necassary for fabricating the PCB
+- [Bill of Material (aka BOM)](https://github.com/daneallen/neopixelLanyard/BOM) for all parts outlines in great detail every part necassary for fabricating the PCB
   - PCB Gerber and/or KiCad files are available for fabrication with your favorite vendor.
 - Lanyard Ribbon (aka Polyester Tubing) from a fabric store (i.e. JoAnns)
   - Thread to stitch the final parts together.
