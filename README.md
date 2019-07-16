@@ -7,6 +7,8 @@ Total parts cost ~$40/unit.
 
 Contained within this repository is everything you *should* need to fabricate and modify the lanyard as you desire.
 
+![PCB Image](https://github.com/daneallen/neopixelLanyard/media/v1_PCB.jpg)
+
 ### Project Keywords
 - MCU - Attiny85
 - Arduino Stack
