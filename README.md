@@ -7,7 +7,7 @@ Total parts cost ~$40/unit.
 
 Contained within this repository is everything you *should* need to fabricate and modify the lanyard as you desire.
 
-[<img src="https://youtu.be/GvSMzBnvGC0">](https://youtu.be/GvSMzBnvGC0)
+[Video Demo](https://youtu.be/GvSMzBnvGC0)
 
 <img src="https://github.com/daneallen/neopixelLanyard/blob/master/media/v1_PCB.jpg" width=400>
 
