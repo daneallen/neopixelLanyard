@@ -1,0 +1,17 @@
+PCB Reference,Part,Digikey Part #,Link,Cost,Quantity,Total
+S1,Switch,EG1903-ND,https://www.digikey.com/product-detail/en/e-switch/EG1218/EG1903-ND/101726,0.67,1,$0.67
+U1,Attiny85,ATTINY85-20SURCT-ND,https://www.digikey.com/product-detail/en/microchip-technology/ATTINY85-20SUR/ATTINY85-20SURCT-ND/3789340,1.23,1,$1.23
+BT1,Battery Clip,36-2479-ND,https://www.digikey.com/product-detail/en/keystone-electronics/2479/36-2479-ND/303824,1.61,1,$1.61
+N/A,Neopixel strip,1528-1633-ND,https://www.digikey.com/product-detail/en/2963/1528-1633-ND/5959345/?itemSeq=297335352,24.95,1,$24.95
+S2,Push Button,KS-01Q-01,https://www.digikey.com/products/en?keywords=KS-01Q-01,0.53,1,$0.53
+R1,10K Resistor,CF14JT10K0CT-ND,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT10K0/CF14JT10K0CT-ND/1830374,0.1,1,$0.10
+R2,470 Resistor,CF14JT470RCT-ND,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT470R/CF14JT470RCT-ND/1830342,0.1,1,$0.10
+R3 & R4,330 Resistor,CF14JT330RCT-ND,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT330R/CF14JT330RCT-ND/1830338,0.1,2,$0.20
+C1,1000 uF Capacitor,P10373CT-ND,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ECA-1CM102B/P10373CT-ND/8603353,0.5,1,$0.50
+SAO,SAO Connector,S7105-ND,https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPPC022LFBN-RC/S7105-ND/810242,0.58,1,$0.58
+SAO v1.69,SAO Connector,  732-5394-ND ,https://www.digikey.com/product-detail/en/wurth-electronics-inc/61200621621/732-5394-ND/4846913,0.45,1,$0.45
+,,,,,,
+,,,,,Tariff,
+,,,,,Tax,
+,,,,,Shipping,$4.99
+,,,,,Total,$35.24
