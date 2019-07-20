@@ -11,8 +11,6 @@ Contained within this repository is everything you *should* need to fabricate an
 
 <img src="https://github.com/daneallen/neopixelLanyard/blob/master/media/v4_pcb.png" width=400>
 
-A video of a prototype lanyard is available <a href="https://github.com/daneallen/neopixelLanyard/blob/master/media/prototype.MOV">here</a> in the media folder.
-
 ### Project Keywords
 - MCU - Attiny85
 - Arduino Stack
