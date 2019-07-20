@@ -38,7 +38,7 @@ Contained within this repository is everything you *should* need to fabricate an
 1. Collect all of the necassary parts (i.e. manufacture the PCB, order from Digikey, etc).
 2. Populate the PCB. 
     - Solder the battery pack LAST!
-    - Ensure that the through hole components are clipped as flush as possible on the backside to ensure tha the battery pack unit sits flush with the back of the PCB.
+    - Ensure that the through hole components are clipped as flush as possible on the backside to ensure that the battery pack unit sits flush with the back of the PCB.
     - Once satisfied and op-checked solder the battery pack leads last (from the front of the PCB).
 3. Thread the Neopixel strip through the lanyard material. This is slow going, about 1-2 inches per minute by hand.
 4. Carefully select the desired length and hand stitch the filled lanyard to the PCB
